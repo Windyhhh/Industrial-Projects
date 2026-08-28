@@ -61,6 +61,15 @@ Industrial-Projects/
 
 ---
 
+
+## Results
+
+<div align="center">
+  <img src="visualizations/monthly_sales.png" alt="Monthly sales" width="70%"/>
+  <img src="visualizations/user_clusters.png" alt="User clusters" width="70%"/>
+</div>
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
