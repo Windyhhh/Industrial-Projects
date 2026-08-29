@@ -70,6 +70,36 @@ Industrial-Projects/
 </div>
 
 ---
+## 技术实现细节
+
+### 架构概览
+
+项目采用模块化设计，核心目录包括：**visualizations**。
+
+### 技术栈与依赖
+
+**核心框架/库**：NumPy, matplotlib, pandas, scikit-learn, seaborn
+
+**主要 import**：
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import StandardScaler
+import os
+import pandas as pd
+import numpy as np
+import mysql.connector
+```
+
+### 实现要点
+
+- 基于 NumPy, matplotlib, pandas 构建，技术栈成熟稳定
+- 代码结构清晰，模块间低耦合，便于扩展和维护
+
+---
 ## License
 
 MIT — free to use, modify and distribute.
