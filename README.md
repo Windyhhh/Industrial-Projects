@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏭 Industrial-Projects
+# 工业工程项目合集 | Industrial-Projects
 
 ### E-commerce customer behavior analytics.
 
